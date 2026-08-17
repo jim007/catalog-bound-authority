@@ -1,5 +1,8 @@
 # Catalog-bound authority
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21976352.svg)](https://doi.org/10.5281/zenodo.21976352)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 **Lifecycle control over records you do not store.**
 
 An experiment report on governing AI-agent memory that lives in a store you
@@ -59,5 +62,9 @@ reuse, adaptation and commercial use are permitted.
 
 ## Citing
 
-See [`CITATION.cff`](CITATION.cff). A DOI will be assigned via Zenodo on the
-first tagged release.
+Archived on Zenodo with a permanent DOI:
+[10.5281/zenodo.21976352](https://doi.org/10.5281/zenodo.21976352).
+Machine-readable metadata in [`CITATION.cff`](CITATION.cff).
+
+> Anokhin, D. (2026). *Catalog-bound authority: lifecycle control over records
+> you do not store.* Zenodo. https://doi.org/10.5281/zenodo.21976352

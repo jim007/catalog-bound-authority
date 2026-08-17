@@ -13,6 +13,10 @@ authors:
   - family-names: Anokhin
     given-names: Dmitrii
 type: report
+doi: 10.5281/zenodo.21976352
+repository-code: "https://github.com/jim007/catalog-bound-authority"
+url: "https://doi.org/10.5281/zenodo.21976352"
+version: 1.0.0
 license: CC-BY-4.0
 date-released: 2026-08-17
 keywords:
