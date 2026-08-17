@@ -1,8 +1,8 @@
-# Lifecycle authority without content custody
+# Catalog-bound authority
 
-## Governing records that remain in an external store
+## Lifecycle control over records you do not store
 
-[Русская версия](NOTE_CATALOG_BOUND_AUTHORITY_RU.md)
+[Русская версия](NOTE-RU.md)
 
 > **Status:** experiment report, not a product or production claim.  
 > **Evidence:** PA-EXP-03 executable matrix, `10/10 PASS`.  

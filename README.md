@@ -59,5 +59,5 @@ reuse, adaptation and commercial use are permitted.
 
 ## Citing
 
-See [`CITATION.cff`](CITATION.cff). A DOI is assigned via Zenodo — see the badge
-above once the first release is archived.
+See [`CITATION.cff`](CITATION.cff). A DOI will be assigned via Zenodo on the
+first tagged release.
