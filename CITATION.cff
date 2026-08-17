@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "Catalog-bound authority: lifecycle control over records you do not store"
+abstract: >-
+  An experiment report on governing AI-agent memory held in an external store.
+  Ownership is split by role rather than by location: the provider keeps content,
+  embeddings and search, while a local catalog keeps identity, exact version,
+  provenance, lifecycle status and a keyed fingerprint. Policy runs before any
+  content fetch. Two properties follow: a denied record is never fetched, and
+  revocation works without the ability to delete. Verified as an executable
+  matrix of ten checks against an in-process fixture, with limitations stated.
+authors:
+  - family-names: Anokhin
+    given-names: Dmitrii
+type: report
+license: CC-BY-4.0
+date-released: 2026-08-17
+keywords:
+  - catalog-bound authority
+  - AI agent memory
+  - disclosure boundary
+  - provenance
+  - revocation
+  - policy before decrypt
+  - OWASP ASI06
